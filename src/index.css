@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #f43f5e, #f97316);
+  color: white;
+}
+button {
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 8px;
+}
+button:hover {
+  background: #f3f4f6;
+}
